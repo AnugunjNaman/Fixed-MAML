@@ -291,7 +291,7 @@ language_specific_model('english', n=5)
 
 language_specific_model('english', n=10)
 
-language_specific_model('english', n=20)
+language_specific_model('english', n=1)
 
 """## spanish in testset, and other languages in trainset"""
 
@@ -299,7 +299,7 @@ language_specific_model('spanish', n=5)
 
 language_specific_model('spanish', n=10)
 
-language_specific_model('spanish', n=20)
+language_specific_model('spanish', n=1)
 
 """## italian in testset, and other languages in trainset"""
 
@@ -307,5 +307,5 @@ language_specific_model('italian', n=5)
 
 language_specific_model('italian', n=10)
 
-language_specific_model('italian', n=20)
+language_specific_model('italian', n=1)
 
