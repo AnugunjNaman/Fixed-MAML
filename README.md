@@ -1,6 +1,7 @@
 # Fixed-MAML
-Fixed-MAML: Speech Emotion Recognition
-
+Fixed-MAML: Speech Emotion Recognition.
+The repository is inspired from MAML [Pytorch Implementation](
+https://github.com/dragen1860/MAML-Pytorch)
 #### Steps to reproduce the results.
 
  1. Download the [EmoFilm Dataset](https://zenodo.org/record/1326428#.X8sFStgzZPY).
